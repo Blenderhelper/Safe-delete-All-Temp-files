@@ -1,6 +1,5 @@
-================================================================= 
-SYSTEM CLEANUP SCRIPT - PURPOSE AND ARCHITECTURE                 
-================================================================= 
+SYSTEM CLEANUP SCRIPT 
+PURPOSE AND ARCHITECTURE                 
  
 OVERVIEW: 
 This automated Windows batch script is designed to optimise system storage 
